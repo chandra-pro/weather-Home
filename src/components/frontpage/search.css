@@ -1,0 +1,14 @@
+.container{
+margin-left: 15%;
+margin-right: 15%;
+text-align: center;
+margin-top: 5%;
+
+
+}
+body{
+    background-color:aqua;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.K3i76_aCBQBTx2qdRP49vAHaEK&pid=Api&P=0");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
